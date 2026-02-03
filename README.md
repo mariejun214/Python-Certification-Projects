@@ -1,0 +1,1 @@
+A collection of Python projects built for the freeCodeCamp certification. Showcasing core concepts, clean code, and practical problem-solving, this repo serves as both a learning portfolio and a resource for exploring Python fundamentals.
